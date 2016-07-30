@@ -1,0 +1,25 @@
+{
+  "name": "vuex-weex",
+  "version": "1.0.0",
+  "description": "modified edition of vuex which can be used in weex,based on vuex-v2.0.0-rc.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmCha/vuex-weex.git"
+  },
+  "keywords": [
+    "weex",
+    "edition",
+    "of",
+    "vuex"
+  ],
+  "author": "MajiuxiCha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmCha/vuex-weex/issues"
+  },
+  "homepage": "https://github.com/kmCha/vuex-weex#readme"
+}
